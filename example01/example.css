@@ -1,0 +1,30 @@
+#introSec{
+    background-color: lightblue;
+  }
+  h1{
+    color: red;
+    
+  }
+  p{
+    color: green;
+  }
+  
+  #mybtn{
+    border:2px solid black;
+    border-radius: 20px;
+  }
+  #ListSection{
+      background-color: aqua;
+  }
+  ol{
+      color:rgb(255, 0, 0);
+  }
+  #myBtn{
+      align-items: center;
+      background-color: crimson;
+      width: 45pc;
+  }
+  #video{
+      align-content: center;
+      padding-left: 33;
+  }
